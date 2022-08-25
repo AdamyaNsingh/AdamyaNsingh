@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Adamya Narayan Singh</h1>
 <h3 align="center">A passionately inquisitive from India</h3>
-<(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftechnocom.asia%2Fwp-content%2Fuploads%2F2019%2F11%2Fgiphy.gif&imgrefurl=https%3A%2F%2Ftechnocom.asia%2Ftop-iot-projects-worth-checking-out%2F&tbnid=DjsFQrsx4FFRGM&vet=12ahUKEwiMwdGy9eH5AhUlgWMGHcJnCEwQMyhDegQIARB6..i&docid=NZj-6KJx7yqHKM&w=645&h=700&q=cloud%20computin%20arduino%20codinggif%20image&ved=2ahUKEwiMwdGy9eH5AhUlgWMGHcJnCEwQMyhDegQIARB6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamyansingh&label=Profile%20views&color=0e75b6&style=flat" alt="adamyansingh" /> </p>
 
